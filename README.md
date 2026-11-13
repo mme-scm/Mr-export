@@ -1,7 +1,7 @@
 # Export `target1`
 
 Full export of the constraint-propagation run (format: FORMAT.md) at checkpoint `target1`,
-built from mme-scm/Mr-calculator at commit a827014f7ea16fc195bc3202eb8a2af885ea7a90 on 2026-11-13 22:30 UTC.
+built from mme-scm/Mr-calculator at commit a827014f7ea16fc195bc3202eb8a2af885ea7a90 on 2026-11-13 22:33 UTC.
 
 - pins: {'M': 272472, 'r_2': 375, 'nu': 31862, 'r_0': 430, 'tau': 318926, 'upsilon': 461846}
 - independent check: RESULT: OK
