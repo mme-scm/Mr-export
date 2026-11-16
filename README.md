@@ -6,7 +6,7 @@ built from mme-scm/Mr-calculator at commit 8357f8ea223391a49889ba9405fc3fedad0d4
 - pins: {'M': 308752, 'r_2': 387, 'nu': 37602, 'r_0': 438, 'tau': 396428, 'upsilon': 547014}
 - independent check: RESULT: OK
 - tests: 112 passed in 3602.71s (1:00:02)
-- no ablation was run for this export
+- ablation (run after the export was first published): ablation.json and the sheet `ablation` of knots.xlsx
 
 Nodes with at most 13 crossings: prime knots and their mirror images (counted separately) and composites (by crossing sum); the unknot is crossing number 0.
 
